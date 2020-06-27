@@ -17,13 +17,8 @@ Tools
 - ## Feature Engineering (Python Programming)
     - [House Prices Advanced Regression Techniques](https://github.com/GauravRajwada/Data-Science/blob/master/House%20Prices%20Advanced%20Regression%20Techniques/PreProcessing%20Test.ipynb): Based off my advance house price analysis.
 
-<     
-- ## Minor Projects
-    - [Personal Notes on Natural Language Processing Toolkit](https://github.com/melvfnz/data_science_portfolio/blob/master/Natural%20Language%20Processing%20Personal%20Notes.ipynb)
-    - [Intro to BigQuery](https://github.com/melvfnz/data_science_portfolio/blob/master/Intro%20to%20BigQuery%20.ipynb)
-    - [Breast Cancer Analysis](https://github.com/melvfnz/data_science_portfolio/blob/master/Breast%20Cancer%20Analysis.ipynb)
 
 If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
-    - [LinkedIn](https://www.linkedin.com/in/melvfernandez/)
-    - [Twitter](https://twitter.com/melvfnz)
-  >
+    - [LinkedIn](https://www.linkedin.com/in/gaurav-singh-b90369191/)
+    - [Website](https://gauravrajwada.github.io/Protfolio/)
+ 
