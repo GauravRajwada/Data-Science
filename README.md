@@ -1,4 +1,4 @@
-# Data Science and Machine Learning Portfolio
+# Data Science Portfolio
 This Repository contains portfolio of data science projects that I have completed for self learning, and professional purposes. 
 Presented in the form of Jupyter Notebooks and python files.
 For a more visually pleasant experience for browsing the portfolio, check out [Gaurav](https://gauravrajwada.github.io/Protfolio/)
