@@ -24,7 +24,7 @@ Tools
     - [VGG16 - Fruits360](https://github.com/GauravRajwada/fruits360): Transfer learning technique. I have used VGG16 for making classifier that classifiy 130 different types of fruits.
     
 - ## Competitions
-    - [House Prices Advanced Regression Techniques]
+    -House Prices Advanced Regression Techniques
     ![alt text](https://drive.google.com/file/d/1JUH3fZ5mAQlufEHtHyDzusHI3xwAekYi/view?usp=sharing)
 
 - ## Projects
