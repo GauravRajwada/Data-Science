@@ -24,8 +24,8 @@ Tools
     - [VGG16 - Fruits360](https://github.com/GauravRajwada/fruits360): Transfer learning technique. I have used VGG16 for making classifier that classifiy 130 different types of fruits.
     
 - ## Competitions
-    -House Prices Advanced Regression Techniques
-    ![alt text](https://drive.google.com/file/d/1JUH3fZ5mAQlufEHtHyDzusHI3xwAekYi/view?usp=sharing)
+    -[House Prices Advanced Regression Techniques]
+    ![image](https://drive.google.com/file/d/1JUH3fZ5mAQlufEHtHyDzusHI3xwAekYi/view?usp=sharing)
 
 - ## Projects
     - [Car_Price_Predictions](https://github.com/GauravRajwada/car-price-prediction): Simple car price prediction trained on random forest regressor. Go and check out https://car-price-pred.herokuapp.com/
