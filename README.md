@@ -25,7 +25,7 @@ Tools
     - [VGG16 - Fruits360](https://github.com/GauravRajwada/fruits360): Transfer learning technique. I have used VGG16 for making classifier that classifiy 130 different types of fruits.
     
 - ## Competitions
-    -[Titanic Machine Learning from Disaster](https://drive.google.com/file/d/1JUH3fZ5mAQlufEHtHyDzusHI3xwAekYi/view?usp=sharing): Got 483 rank out of 23097 with 0.11682 score in Kaggle competition.
+    - [Titanic Machine Learning from Disaster](https://drive.google.com/file/d/1JUH3fZ5mAQlufEHtHyDzusHI3xwAekYi/view?usp=sharing): Got 483 rank out of 23097 with 0.11682 score in Kaggle competition.
     - [Digit Recognizer](https://drive.google.com/file/d/1JRF697fUcbvHWX0ShHLd0IEA4Vjr1Luw/view?usp=sharing): Got 1283 rank on building CNN model in Digit Recognizer compition.
 
 - ## Projects
