@@ -42,6 +42,6 @@ Tools
 - ## Credits
     - Thanks to [Krish Naik (https://github.com/krishnaik06): Based off my advance house price analysis.
 
-If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
+If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on:<br>
     - [LinkedIn](https://www.linkedin.com/in/gaurav-singh-b90369191/)
     - [Website](https://gauravrajwada.github.io/Protfolio/)
